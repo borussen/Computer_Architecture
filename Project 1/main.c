@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-/* 2016314786 ±èÈ£Áø*/
+/* 2016314786 ê¹€í˜¸ì§„*/
 
 #include <stdlib.h>
 #include <stdio.h>
