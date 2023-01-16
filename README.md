@@ -6,4 +6,7 @@
 - Project 2 : Programming for Simulate a Single-cycle CPU
 - Project 3 : Programming for MIPS CPU Simulator & Cache Simulator
 
-### MIPS OPCODE
+<br>
+
+### What is MIPS?
+<img src="Project 1/MIPS.png">
