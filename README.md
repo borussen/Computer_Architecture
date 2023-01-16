@@ -9,4 +9,4 @@
 <br>
 
 ### What is MIPS?
-<img src="Project 1/MIPS.png">
+<img src="MIPS.png">
